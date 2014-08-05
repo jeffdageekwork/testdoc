@@ -1,6 +1,8 @@
-Awesome eh! 
+testdoc
 =======
 
-Just a test doc, working with prose.io
+#just a test
 
-Anyway hope you love it
+##so keep testing it
+
+Just a test doc, working with prose.io
